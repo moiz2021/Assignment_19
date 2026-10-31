@@ -35,4 +35,4 @@
 
 ## 📸 Dashboard
 
-![Dashboard Preview]() 
+![Dashboard Preview](https://github.com/moiz2021/Assignment_19/blob/main/Dashboard%20SS.jpeg) 
